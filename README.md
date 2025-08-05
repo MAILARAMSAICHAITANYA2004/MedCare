@@ -79,7 +79,7 @@ Once registered, users can sign in using the provided email address and password
 
 ### Prerequisites
 
-This App uses NodeJS backend server for its functionality. First of all, setup the local server using the steps provided in the [medcare-server repo](https://github.com/SandeepKrSuman/medcare-server).
+This App uses NodeJS backend server for its functionality. First of all, setup the local server using the steps provided in the [medcare-server repo](https://github.com/MAILARAMSAICHAITANYA2004/medcare-server/tree/main).
 
 ### Installation
 
